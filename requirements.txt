@@ -1,0 +1,9 @@
+windows-curses
+curses
+tqdm
+os
+random
+datetime
+shutil
+pkgutil
+subprocess
