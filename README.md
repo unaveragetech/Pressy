@@ -29,7 +29,7 @@ Full Disclosure
 This program is distributed as a standalone  and includes functionality to install FFmpeg to your user path. Because of these behaviors—and the fact that the executable is unsigned—it may be flagged as a trojan by some antivirus tools.
 You can view the VirusTotal report for transparency. The full source code is publicly available, and I assure you there are no malicious intentions behind this project.
 Since the  is unsigned, you may need to manually allow it to run. You're always welcome to inspect the code yourself and install FFmpeg manually if you prefer.
-[link to](https://www.virustotal.com/gui/file/7cde7acb49a1114a5de1c971bdee3727e34348342d5a35e41d027fd646d198b1?nocache=1)
+[link to virus total](https://www.virustotal.com/gui/file/7cde7acb49a1114a5de1c971bdee3727e34348342d5a35e41d027fd646d198b1?nocache=1)
 
 ## Installation
 1. Clone or download this repository.
