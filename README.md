@@ -7,9 +7,11 @@ Pressy is a Python application that compresses MP4 videos to fit under Discord's
 ### 🚀 Skip the Setup – Get Straight to Action
 
 Don’t feel like waiting or compiling?  
-Just head to the **Release Tags**, click on **`V-a1`**, and grab the **fully packed `.exe`**—ready to run out of the box.
+Just head to the **Release Tags**, click on **`Pressy-bug fixes `** on the right hand side , and grab the **fully packed `.exe`**—ready to run out of the box.
 
-No installs. No config. Just launch and convert.
+No installs. No config. Just launch and convert.(this will flag as a trojan due to it being an exe and it using the system path)
+dont trust me? read the code and run it with standard python 
+
 
 ## Features
 - **Compress MP4 videos for Discord**: Ensures output files are under 10MB.
