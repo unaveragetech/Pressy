@@ -25,6 +25,11 @@ No installs. No config. Just launch and convert.
 - FFmpeg and ffprobe (bundled for Windows, or install manually)
 - Required Python packages (see `requirements.txt`)
 
+Full Disclosure
+This program is distributed as a standalone  and includes functionality to install FFmpeg to your user path. Because of these behaviors—and the fact that the executable is unsigned—it may be flagged as a trojan by some antivirus tools.
+You can view the VirusTotal report for transparency. The full source code is publicly available, and I assure you there are no malicious intentions behind this project.
+Since the  is unsigned, you may need to manually allow it to run. You're always welcome to inspect the code yourself and install FFmpeg manually if you prefer.
+
 ## Installation
 1. Clone or download this repository.
 2. Ensure Python 3.7+ is installed.
