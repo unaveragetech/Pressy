@@ -39,16 +39,15 @@ better then virus total
 
 ## Installation
 1. Clone or download this repository.
+git clone https://github.com/unaveragetech/Pressy.git
 2. Ensure Python 3.7+ is installed.
-3. Install dependencies:
-   ```powershell
-   python pippin.py
-   ```
-   Or manually:
-   ```powershell
-   pip install -r requirements.txt
-   ```
+## Usage
 
+Launch the GUI to select and compress videos interactively:
+```powershell
+python pressy.py
+```
+it auto installes everything needed 
 ## Usage
 ### GUI Mode
 Launch the GUI to select and compress videos interactively:
