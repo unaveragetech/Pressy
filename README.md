@@ -2,6 +2,15 @@
 
 Pressy is a Python application that compresses MP4 videos to fit under Discord's 10MB upload limit. It features a user-friendly GUI and a command-line interface, using FFmpeg for high-quality video compression. Pressy is ideal for quickly preparing videos for Discord sharing, with batch processing and intelligent bitrate calculation.
 
+
+
+### 🚀 Skip the Setup – Get Straight to Action
+
+Don’t feel like waiting or compiling?  
+Just head to the **Release Tags**, click on **`V-a1`**, and grab the **fully packed `.exe`**—ready to run out of the box.
+
+No installs. No config. Just launch and convert.
+
 ## Features
 - **Compress MP4 videos for Discord**: Ensures output files are under 10MB.
 - **Batch processing**: Select multiple files and compress them in one go.
