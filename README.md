@@ -11,7 +11,7 @@ Just head to the **Release Tags**, click on **`Pressy-bug fixes `** on the right
 
 No installs. No config. Just launch and convert.(this will flag as a trojan due to it being an exe and it using the system path)
 dont trust me? read the code and run it with standard python 
-
+the code [The main file](pressy.py)
 
 ## Features
 - **Compress MP4 videos for Discord**: Ensures output files are under 10MB.
